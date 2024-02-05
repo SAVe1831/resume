@@ -15,7 +15,7 @@ export default defineConfig({
       }
     }
   },
-  base: "/",
+  base: "/Home",
   plugins: [
     vue(),
     compressionPlugin({
