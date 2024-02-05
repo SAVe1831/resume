@@ -12014,32 +12014,32 @@ function _sfc_render(_ctx, _cache, $props, $setup, $data, $options) {
 const Contacts = /* @__PURE__ */ _export_sfc(_sfc_main, [["render", _sfc_render], ["__scopeId", "data-v-39aa4bf5"]]);
 const routes = [
   {
-    path: "/resume/home",
+    path: "/home",
     name: "Home",
     component: Home
   },
   {
-    path: "/resume/education",
+    path: "/education",
     name: "education",
     component: Education
   },
   {
-    path: "/resume/experience",
+    path: "/experience",
     name: "experience",
     component: Experience
   },
   {
-    path: "/resume/portfolio",
+    path: "/portfolio",
     name: "portfolio",
     component: Portfolio
   },
   {
-    path: "/resume/about",
+    path: "/about",
     name: "about",
     component: AboutMe
   },
   {
-    path: "/resume/contacts",
+    path: "/contacts",
     name: "contacts",
     component: Contacts
   }
