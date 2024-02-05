@@ -15,7 +15,7 @@ export default defineConfig({
       }
     }
   },
-  base: `/resume/`,
+  base: "/",
   plugins: [
     vue(),
     compressionPlugin({
