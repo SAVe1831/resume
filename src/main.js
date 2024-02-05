@@ -2,10 +2,10 @@ import { createApp } from 'vue'
 import App from './App.vue'
 
 import PrimeVue from 'primevue/config'
+import Button from 'primevue/button'
 
 import Navbar from '@/components/Navbar.vue'
 import router from '@/router/index.js'
-
 
 import 'primevue/resources/themes/soho-light/theme.css'
 import 'primevue/resources/primevue.min.css'
@@ -16,6 +16,7 @@ app.use(PrimeVue);
 app.use(router);
 
 app.component('Navbar', Navbar);
+app.component('Button', Button);
 
 
 app.mount('#app')
