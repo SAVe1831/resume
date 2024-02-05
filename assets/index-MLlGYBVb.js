@@ -11937,8 +11937,8 @@ function extractChangingRecords(to, from) {
   }
   return [leavingRecords, updatingRecords, enteringRecords];
 }
-const _imports_0$2 = "https://save1831.github.io/resume/home/assets/Hello-fhnuFBnL.png";
-const _imports_1 = "https://save1831.github.io/resume/home/assets/my-photo-bcg7wWUh.png";
+const _imports_0$2 = "" + new URL("Hello-fhnuFBnL.png", import.meta.url).href;
+const _imports_1 = "" + new URL("my-photo-bcg7wWUh.png", import.meta.url).href;
 const _sfc_main$5 = {
   name: "Home"
 };
@@ -11951,7 +11951,7 @@ function _sfc_render$5(_ctx, _cache, $props, $setup, $data, $options) {
   return openBlock(), createElementBlock("div", _hoisted_1$5, _hoisted_4$1);
 }
 const Home = /* @__PURE__ */ _export_sfc(_sfc_main$5, [["render", _sfc_render$5], ["__scopeId", "data-v-d1693495"]]);
-const _imports_0$1 = "https://save1831.github.io/resume/home/assets/education-0BLuv_iF.png";
+const _imports_0$1 = "" + new URL("education-0BLuv_iF.png", import.meta.url).href;
 const _sfc_main$4 = {};
 const _hoisted_1$4 = { class: "main" };
 const _hoisted_2$4 = /* @__PURE__ */ createStaticVNode('<div class="education" data-v-0118b712><div class="head-container" data-v-0118b712><img src="' + _imports_0$1 + '" alt="education" data-v-0118b712><h2 data-v-0118b712>Моё образование</h2></div><div class="content-container" data-v-0118b712><p data-v-0118b712><strong data-v-0118b712>Высшее техническое</strong></p><p data-v-0118b712>Липецкий Государственный Технический Университет (ЛГТУ)</p><p data-v-0118b712>Факультет: Механико-машиностроительный (ММФ)</p><p data-v-0118b712>Специальность: Технология машиностроения</p><p data-v-0118b712>Год окончания: 2012</p><p data-v-0118b712><strong data-v-0118b712>Дополнительное образование</strong></p><p data-v-0118b712>Образовательная онлайн платформа ООО &quot;Нетология&quot;</p><p data-v-0118b712>Специальность: JavaScript-программирование</p><p data-v-0118b712>Год окончания: 2023</p></div></div>', 1);
@@ -12001,7 +12001,7 @@ function _sfc_render$1(_ctx, _cache, $props, $setup, $data, $options) {
   return openBlock(), createElementBlock("div", _hoisted_1$1, _hoisted_3);
 }
 const AboutMe = /* @__PURE__ */ _export_sfc(_sfc_main$1, [["render", _sfc_render$1]]);
-const _imports_0 = "https://save1831.github.io/resume/home/assets/connection-afwOJBgE.png";
+const _imports_0 = "" + new URL("connection-afwOJBgE.png", import.meta.url).href;
 const _sfc_main = {};
 const _hoisted_1 = { class: "main" };
 const _hoisted_2 = /* @__PURE__ */ createStaticVNode('<div class="head-container" data-v-39aa4bf5><img src="' + _imports_0 + '" alt="connect" data-v-39aa4bf5><h1 data-v-39aa4bf5>Как со мной связаться</h1></div><div class="connect-container" data-v-39aa4bf5><div data-v-39aa4bf5><ul data-v-39aa4bf5><li data-v-39aa4bf5>Набрать номер телефона:</li><li class="contacts" data-v-39aa4bf5><i class="pi pi-phone" data-v-39aa4bf5></i><p data-v-39aa4bf5><a href="tel:+79628685863" data-v-39aa4bf5>+7(962)868-58-63</a></p></li><li class="contacts" data-v-39aa4bf5><i class="pi pi-phone" data-v-39aa4bf5></i><p data-v-39aa4bf5><a href="tel:+79046853431" data-v-39aa4bf5>+7(904)685-34-31</a></p></li><li data-v-39aa4bf5>Написать на электронный почтовый ящик:</li><li class="contacts" data-v-39aa4bf5><i class="pi pi-at" data-v-39aa4bf5></i><p data-v-39aa4bf5><a href="mailto:save1831537@gmail.com" data-v-39aa4bf5>save1831537@gmail.com</a></p></li></ul></div><div data-v-39aa4bf5><ul data-v-39aa4bf5><li data-v-39aa4bf5>Мои мессенджеры:</li><li class="contacts" data-v-39aa4bf5><i class="pi pi-whatsapp" data-v-39aa4bf5></i><p data-v-39aa4bf5><a href="https://api.whatsapp.com/send?phone=79628685863" data-v-39aa4bf5>WhatsApp +7 (962) 868-58-63</a></p></li><li class="contacts" data-v-39aa4bf5><i class="pi pi-whatsapp" data-v-39aa4bf5></i><p data-v-39aa4bf5><a href="https://api.whatsapp.com/send?phone=79046853431" data-v-39aa4bf5>WhatsApp +7 (904) 685-34-31</a></p></li><li class="contacts" data-v-39aa4bf5><i class="pi pi-telegram" data-v-39aa4bf5></i><p data-v-39aa4bf5><a href="tg://resolve?domain=save1831" data-v-39aa4bf5>Telegram +7 (904) 685-34-31</a></p></li></ul></div></div>', 2);
@@ -12014,7 +12014,7 @@ function _sfc_render(_ctx, _cache, $props, $setup, $data, $options) {
 const Contacts = /* @__PURE__ */ _export_sfc(_sfc_main, [["render", _sfc_render], ["__scopeId", "data-v-39aa4bf5"]]);
 const routes = [
   {
-    path: "/",
+    path: "/resume/home",
     name: "Home",
     component: Home
   },

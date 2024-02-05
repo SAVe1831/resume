@@ -34,7 +34,7 @@
     color: #043d75;
 }
 body {
-    background-image: url("https://save1831.github.io/resume/home/assets/background-UflufwNY.jpg");
+    background-image: url("./background-UflufwNY.jpg");
 }  
 
 .main[data-v-d1693495] {
@@ -246,7 +246,7 @@ a[data-v-39aa4bf5] {
   font-family: "Lato";
   font-style: normal;
   font-weight: 300;
-  src: local("Lato Light"), local("Lato-Light"), url("https://save1831.github.io/resume/home/assets/lato-v17-latin-ext_latin-300-hqlWFQXa.woff2") format("woff2"), url("https://save1831.github.io/resume/home/assets/lato-v17-latin-ext_latin-300-_iMfZJvX.woff") format("woff");
+  src: local("Lato Light"), local("Lato-Light"), url("./lato-v17-latin-ext_latin-300-hqlWFQXa.woff2") format("woff2"), url("./lato-v17-latin-ext_latin-300-_iMfZJvX.woff") format("woff");
   /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* lato-regular - latin-ext_latin */
@@ -254,7 +254,7 @@ a[data-v-39aa4bf5] {
   font-family: "Lato";
   font-style: normal;
   font-weight: 400;
-  src: local("Lato Regular"), local("Lato-Regular"), url("https://save1831.github.io/resume/home/assets/lato-v17-latin-ext_latin-regular-BgCEw8kC.woff2") format("woff2"), url("https://save1831.github.io/resume/home/assets/lato-v17-latin-ext_latin-regular-892S8Yyp.woff") format("woff");
+  src: local("Lato Regular"), local("Lato-Regular"), url("./lato-v17-latin-ext_latin-regular-BgCEw8kC.woff2") format("woff2"), url("./lato-v17-latin-ext_latin-regular-892S8Yyp.woff") format("woff");
   /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* lato-700 - latin-ext_latin */
@@ -262,7 +262,7 @@ a[data-v-39aa4bf5] {
   font-family: "Lato";
   font-style: normal;
   font-weight: 700;
-  src: local("Lato Bold"), local("Lato-Bold"), url("https://save1831.github.io/resume/home/assets/lato-v17-latin-ext_latin-700-v5gqKcXn.woff2") format("woff2"), url("https://save1831.github.io/resume/home/assets/lato-v17-latin-ext_latin-700-ggSMo5BC.woff") format("woff");
+  src: local("Lato Bold"), local("Lato-Bold"), url("./lato-v17-latin-ext_latin-700-v5gqKcXn.woff2") format("woff2"), url("./lato-v17-latin-ext_latin-700-ggSMo5BC.woff") format("woff");
   /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 :root {
@@ -6053,8 +6053,8 @@ a[data-v-39aa4bf5] {
  */@font-face {
     font-family: 'primeicons';
     font-display: block;
-    src: url('https://save1831.github.io/resume/home/assets/primeicons-5P3lgTyi.eot');
-    src: url('https://save1831.github.io/resume/home/assets/primeicons-5P3lgTyi.eot?#iefix') format('embedded-opentype'), url('https://save1831.github.io/resume/home/assets/primeicons-7GdVu_me.woff2') format('woff2'), url('https://save1831.github.io/resume/home/assets/primeicons-ghXmUeij.woff') format('woff'), url('https://save1831.github.io/resume/home/assets/primeicons-DQ1UBV8x.ttf') format('truetype'), url('https://save1831.github.io/resume/home/assets/primeicons-bmyWY2nz.svg?#primeicons') format('svg');
+    src: url('./primeicons-5P3lgTyi.eot');
+    src: url('./primeicons-5P3lgTyi.eot?#iefix') format('embedded-opentype'), url('./primeicons-7GdVu_me.woff2') format('woff2'), url('./primeicons-ghXmUeij.woff') format('woff'), url('./primeicons-DQ1UBV8x.ttf') format('truetype'), url('./primeicons-bmyWY2nz.svg?#primeicons') format('svg');
     font-weight: normal;
     font-style: normal;
 }
