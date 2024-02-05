@@ -12,7 +12,7 @@ import Contacts from "@/pages/Contacts.vue";
 
 const routes = [
     {
-        path: '/',
+        path: '/resume/home',
         name: 'Home',
         component: Home
     },

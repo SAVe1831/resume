@@ -15,7 +15,7 @@ export default defineConfig({
       }
     }
   },
-  base: 'https://save1831.github.io/resume/home/',
+  base: '',
   plugins: [
     vue(),
     compressionPlugin({
