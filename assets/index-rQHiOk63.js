@@ -12014,7 +12014,7 @@ function _sfc_render(_ctx, _cache, $props, $setup, $data, $options) {
 const Contacts = /* @__PURE__ */ _export_sfc(_sfc_main, [["render", _sfc_render], ["__scopeId", "data-v-39aa4bf5"]]);
 const routes = [
   {
-    path: "/home",
+    path: "/",
     name: "Home",
     component: Home
   },
