@@ -12,32 +12,32 @@ import Contacts from "@/pages/Contacts.vue";
 
 const routes = [
     {
-        path: '/',
+        path: '/resume/home',
         name: 'Home',
         component: Home
     },
     {
-        path: '/education',
+        path: '/resume/education',
         name: 'education',
         component: Education
     },
     {
-        path: '/experience',
+        path: '/resume/experience',
         name: 'experience',
         component: Experience
     },
     {
-        path: '/portfolio',
+        path: '/resume/portfolio',
         name: 'portfolio',
         component: Portfolio
     },
     {
-        path: '/about',
+        path: '/resume/about',
         name: 'about',
         component: AboutMe
     },
     {
-        path: '/contacts',
+        path: '/resume/contacts',
         name: 'contacts',
         component: Contacts
     }
