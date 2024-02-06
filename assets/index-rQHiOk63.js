@@ -12046,7 +12046,7 @@ const routes = [
 ];
 const router = createRouter({
   routes,
-  hash: createWebHistory()
+  history: createWebHistory()
 });
 const app = createApp(App);
 app.use(PrimeVue);
