@@ -15,7 +15,7 @@ export default defineConfig({
       }
     }
   },
-  hash: '',
+  base: '',
   plugins: [
     vue(),
     compressionPlugin({
