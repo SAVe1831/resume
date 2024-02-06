@@ -10503,6 +10503,12 @@ function createWebHistory(base) {
   });
   return routerHistory;
 }
+function createWebHashHistory(base) {
+  base = location.host ? base || location.pathname + location.search : "";
+  if (!base.includes("#"))
+    base += "#";
+  return createWebHistory(base);
+}
 function isRouteLocation(route) {
   return typeof route === "string" || route && typeof route === "object";
 }
@@ -12046,7 +12052,7 @@ const routes = [
 ];
 const router = createRouter({
   routes,
-  history: createWebHistory()
+  history: createWebHashHistory()
 });
 const app = createApp(App);
 app.use(PrimeVue);
