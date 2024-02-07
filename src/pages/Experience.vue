@@ -5,7 +5,7 @@
             <h1>Опыт работы</h1>
         </div>
         <DataTable class="table" :value="items">
-            <Column style="background-color: rgb(113, 194, 224); border: 1px solid #043d75; padding: 5px;" field="date" header="Даты/Сроки"></Column>
+            <Column style="background-color: rgb(113, 194, 224); border: 1px solid #043d75; padding: 5px; text-align: center;" field="date" header="Даты/Сроки"></Column>
             <Column style="background-color: rgb(113, 194, 224); border: 1px solid #043d75; padding: 5px; white-space: pre-line;" field="organization" header="Организация/Должность/Должностные обязанности"></Column>
         </DataTable>
     </div>

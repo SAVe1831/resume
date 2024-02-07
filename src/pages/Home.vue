@@ -10,7 +10,7 @@
             </div>
         </div>
         <div class="content-container">
-            <p>Меня зовут Александр, мне 36 лет.</p>
+            <p>Меня зовут Александр, мне 36 лет. fetch, async/await, promise, js-modules. Flexbox и Grid. Nuxt, Composition API.  Docker, TypeScript. репроцессоров SASS/LESS и шаблонизатора HTML (pug). Web components, PWA, Nginx, Lit. REST API</p>
         </div>        
     </div>
 </template>
