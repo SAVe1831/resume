@@ -13422,14 +13422,14 @@ const _sfc_main$5 = {
   name: "Home"
 };
 const _hoisted_1$w = { class: "main" };
-const _hoisted_2$s = /* @__PURE__ */ createStaticVNode('<div class="head-container" data-v-d1693495><div class="hello-container" data-v-d1693495><img class="img-hello" src="' + _imports_0$3 + '" alt="Hello" data-v-d1693495><h1 data-v-d1693495>Добро пожаловать!</h1></div><div class="circle-photo" data-v-d1693495><img class="my-photo" src="' + _imports_1 + '" alt="my photo" data-v-d1693495></div></div><div class="content-container" data-v-d1693495><p data-v-d1693495>Меня зовут Александр, мне 36 лет.</p></div>', 2);
+const _hoisted_2$s = /* @__PURE__ */ createStaticVNode('<div class="head-container" data-v-3af1f3c3><div class="hello-container" data-v-3af1f3c3><img class="img-hello" src="' + _imports_0$3 + '" alt="Hello" data-v-3af1f3c3><h1 data-v-3af1f3c3>Добро пожаловать!</h1></div><div class="circle-photo" data-v-3af1f3c3><img class="my-photo" src="' + _imports_1 + '" alt="my photo" data-v-3af1f3c3></div></div><div class="content-container" data-v-3af1f3c3><p data-v-3af1f3c3>Меня зовут Александр, мне 36 лет. fetch, async/await, promise, js-modules. Flexbox и Grid. Nuxt, Composition API. Docker, TypeScript. репроцессоров SASS/LESS и шаблонизатора HTML (pug). Web components, PWA, Nginx, Lit. REST API</p></div>', 2);
 const _hoisted_4$e = [
   _hoisted_2$s
 ];
 function _sfc_render$5(_ctx, _cache, $props, $setup, $data, $options) {
   return openBlock(), createElementBlock("div", _hoisted_1$w, _hoisted_4$e);
 }
-const Home = /* @__PURE__ */ _export_sfc(_sfc_main$5, [["render", _sfc_render$5], ["__scopeId", "data-v-d1693495"]]);
+const Home = /* @__PURE__ */ _export_sfc(_sfc_main$5, [["render", _sfc_render$5], ["__scopeId", "data-v-3af1f3c3"]]);
 const _imports_0$2 = "" + new URL("education-0BLuv_iF.png", import.meta.url).href;
 const _sfc_main$4 = {};
 const _hoisted_1$v = { class: "main" };
@@ -26535,7 +26535,7 @@ const _sfc_main$3 = {
     };
   }
 };
-const _withScopeId = (n) => (pushScopeId("data-v-b84cde61"), n = n(), popScopeId(), n);
+const _withScopeId = (n) => (pushScopeId("data-v-4038832f"), n = n(), popScopeId(), n);
 const _hoisted_1$3 = { class: "main" };
 const _hoisted_2$3 = /* @__PURE__ */ _withScopeId(() => /* @__PURE__ */ createBaseVNode("div", { class: "head-container" }, [
   /* @__PURE__ */ createBaseVNode("img", {
@@ -26556,7 +26556,7 @@ function _sfc_render$3(_ctx, _cache, $props, $setup, $data, $options) {
     }, {
       default: withCtx(() => [
         createVNode(_component_Column, {
-          style: { "background-color": "rgb(113, 194, 224)", "border": "1px solid #043d75", "padding": "5px" },
+          style: { "background-color": "rgb(113, 194, 224)", "border": "1px solid #043d75", "padding": "5px", "text-align": "center" },
           field: "date",
           header: "Даты/Сроки"
         }),
@@ -26570,7 +26570,7 @@ function _sfc_render$3(_ctx, _cache, $props, $setup, $data, $options) {
     }, 8, ["value"])
   ]);
 }
-const Experience = /* @__PURE__ */ _export_sfc(_sfc_main$3, [["render", _sfc_render$3], ["__scopeId", "data-v-b84cde61"]]);
+const Experience = /* @__PURE__ */ _export_sfc(_sfc_main$3, [["render", _sfc_render$3], ["__scopeId", "data-v-4038832f"]]);
 const _sfc_main$2 = {};
 const _hoisted_1$2 = { class: "main" };
 const _hoisted_2$2 = /* @__PURE__ */ createBaseVNode("div", { class: "post" }, [
