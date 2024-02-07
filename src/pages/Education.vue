@@ -42,7 +42,7 @@ export default {
     position: relative;
     background-color: rgb(113, 194, 224);
     color: #043d75;
-    margin-right: 35px;
+    margin: 0 35px 35px 0;
 }
 .head-container::after, .head-container::before {
     content: '';
@@ -77,9 +77,6 @@ h2 {
 @media (max-width: 834px) {
     .head-container::after, .head-container::before {
         left: 200px; bottom: -15px;
-    }
-    .content-container {
-        margin: 35px 0 0 0;
     }
 };
 @media (max-width: 750px) {

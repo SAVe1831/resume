@@ -91,7 +91,7 @@ export default {
     background-color: rgb(113, 194, 224);
     border-radius: 15%;
     border: none;
-    padding: 10px 16px;
+    padding: 10px 12px;
     margin-left: 10px;
     text-transform: uppercase;
     transition: 0.4s;
