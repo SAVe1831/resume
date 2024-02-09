@@ -13433,14 +13433,14 @@ const Home = /* @__PURE__ */ _export_sfc(_sfc_main$5, [["render", _sfc_render$5]
 const _imports_0$2 = "" + new URL("education-0BLuv_iF.png", import.meta.url).href;
 const _sfc_main$4 = {};
 const _hoisted_1$v = { class: "main" };
-const _hoisted_2$r = /* @__PURE__ */ createStaticVNode('<div class="education" data-v-7d931606><div class="head-container" data-v-7d931606><img src="' + _imports_0$2 + '" alt="education" data-v-7d931606><h2 data-v-7d931606>Моё образование</h2></div><div class="content-container" data-v-7d931606><p data-v-7d931606><strong data-v-7d931606>Высшее техническое</strong></p><p data-v-7d931606>Липецкий Государственный Технический Университет (ЛГТУ)</p><p data-v-7d931606>Факультет: Механико-машиностроительный (ММФ)</p><p data-v-7d931606>Специальность: Технология машиностроения</p><p data-v-7d931606>Год окончания: 2012</p><p data-v-7d931606><strong data-v-7d931606>Дополнительное образование</strong></p><p data-v-7d931606>Образовательная онлайн платформа ООО &quot;Нетология&quot;</p><p data-v-7d931606>Специальность: JavaScript-программирование</p><p data-v-7d931606>Год окончания: 2023</p></div></div>', 1);
+const _hoisted_2$r = /* @__PURE__ */ createStaticVNode('<div class="education" data-v-67311ba6><div class="head-container" data-v-67311ba6><img src="' + _imports_0$2 + '" alt="education" data-v-67311ba6><h2 data-v-67311ba6>Моё образование</h2></div><div class="content-container" data-v-67311ba6><p data-v-67311ba6><strong data-v-67311ba6>Высшее техническое</strong></p><p data-v-67311ba6>Липецкий Государственный Технический Университет (ЛГТУ)</p><p data-v-67311ba6>Факультет: Механико-машиностроительный (ММФ)</p><p data-v-67311ba6>Специальность: Технология машиностроения</p><p data-v-67311ba6>Год окончания: 2012</p><p data-v-67311ba6><strong data-v-67311ba6>Дополнительное образование</strong></p><p data-v-67311ba6>Образовательная онлайн платформа ООО &quot;Нетология&quot;</p><p data-v-67311ba6>Специальность: JavaScript-программирование</p><p data-v-67311ba6>Год окончания: 2023</p></div></div>', 1);
 const _hoisted_3$f = [
   _hoisted_2$r
 ];
 function _sfc_render$4(_ctx, _cache, $props, $setup, $data, $options) {
   return openBlock(), createElementBlock("div", _hoisted_1$v, _hoisted_3$f);
 }
-const Education = /* @__PURE__ */ _export_sfc(_sfc_main$4, [["render", _sfc_render$4], ["__scopeId", "data-v-7d931606"]]);
+const Education = /* @__PURE__ */ _export_sfc(_sfc_main$4, [["render", _sfc_render$4], ["__scopeId", "data-v-67311ba6"]]);
 var script$E = {
   name: "ArrowDownIcon",
   "extends": script$M
