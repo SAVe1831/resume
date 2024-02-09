@@ -53,6 +53,7 @@ export default {
     box-shadow: 0 0 7px #000; 
     z-index: -1;
     transform: rotate(45deg); 
+    -webkit-transform: rotate(45deg);
 }
 .head-container::before {
     z-index: 1;
