@@ -13421,9 +13421,9 @@ const _imports_1 = "" + new URL("my-photo-bcg7wWUh.png", import.meta.url).href;
 const _sfc_main$5 = {
   name: "Home"
 };
-const _withScopeId$1 = (n) => (pushScopeId("data-v-4ed29ad0"), n = n(), popScopeId(), n);
+const _withScopeId$1 = (n) => (pushScopeId("data-v-87b96396"), n = n(), popScopeId(), n);
 const _hoisted_1$w = { class: "main" };
-const _hoisted_2$s = /* @__PURE__ */ createStaticVNode('<div class="head-container" data-v-4ed29ad0><div class="hello-container" data-v-4ed29ad0><img class="img-hello" src="' + _imports_0$5 + '" alt="Hello" data-v-4ed29ad0><h1 data-v-4ed29ad0>Добро пожаловать!</h1></div><div class="circle-photo" data-v-4ed29ad0><img class="my-photo" src="' + _imports_1 + '" alt="my photo" data-v-4ed29ad0></div></div>', 1);
+const _hoisted_2$s = /* @__PURE__ */ createStaticVNode('<div class="head-container" data-v-87b96396><div class="hello-container" data-v-87b96396><img class="img-hello" src="' + _imports_0$5 + '" alt="Hello" data-v-87b96396><h1 data-v-87b96396>Добро пожаловать!</h1></div><div class="circle-photo" data-v-87b96396><img class="my-photo" src="' + _imports_1 + '" alt="my photo" data-v-87b96396></div></div>', 1);
 const _hoisted_3$g = { class: "content-container" };
 const _hoisted_4$e = /* @__PURE__ */ _withScopeId$1(() => /* @__PURE__ */ createBaseVNode("br", null, null, -1));
 const _hoisted_5$d = /* @__PURE__ */ _withScopeId$1(() => /* @__PURE__ */ createBaseVNode("br", null, null, -1));
@@ -13456,10 +13456,10 @@ function _sfc_render$5(_ctx, _cache, $props, $setup, $data, $options) {
     _hoisted_2$s,
     createBaseVNode("div", _hoisted_3$g, [
       createBaseVNode("p", null, [
-        createTextVNode("Меня зовут Александр, мне 36 лет."),
+        createTextVNode("Меня зовут Александр."),
         _hoisted_4$e,
         _hoisted_5$d,
-        createTextVNode(" Я начинающий веб-разработчик на фреймворке Vue."),
+        createTextVNode(" Я начинающий веб-разработчик, на данный момент специализируюсь на фреймворке Vue."),
         _hoisted_6$c,
         createTextVNode(" Нахожусь в поиске работы-стажировки позиции веб-верстальщика начального уровня. Готов рассмотреть предложение даже с небольшой заработной платой, но с возможностью обучения для дальнейшего развития."),
         _hoisted_7$2,
@@ -13518,7 +13518,7 @@ function _sfc_render$5(_ctx, _cache, $props, $setup, $data, $options) {
     ])
   ]);
 }
-const Home = /* @__PURE__ */ _export_sfc(_sfc_main$5, [["render", _sfc_render$5], ["__scopeId", "data-v-4ed29ad0"]]);
+const Home = /* @__PURE__ */ _export_sfc(_sfc_main$5, [["render", _sfc_render$5], ["__scopeId", "data-v-87b96396"]]);
 const _imports_0$4 = "" + new URL("education-0BLuv_iF.png", import.meta.url).href;
 const _sfc_main$4 = {};
 const _hoisted_1$v = { class: "main" };
@@ -26674,14 +26674,14 @@ const Portfolio = /* @__PURE__ */ _export_sfc(_sfc_main$2, [["render", _sfc_rend
 const _imports_0$1 = "" + new URL("about-SGcLEmNG.png", import.meta.url).href;
 const _sfc_main$1 = {};
 const _hoisted_1$1 = { class: "main" };
-const _hoisted_2$1 = /* @__PURE__ */ createStaticVNode('<div class="about" data-v-251e757f><div class="head-container" data-v-251e757f><img src="' + _imports_0$1 + '" alt="about" data-v-251e757f><h2 data-v-251e757f>Подробнее о себе</h2></div><div class="content-container" data-v-251e757f><p data-v-251e757f>Ф.И.О.</p><span data-v-251e757f>Швецов Александр Владимирович</span><p data-v-251e757f>Дата рождения:</p><span data-v-251e757f>02.07.1987 (36 лет)</span><p data-v-251e757f>Гражданство:</p><span data-v-251e757f>Россия</span><p data-v-251e757f>Город проживания:</p><span data-v-251e757f>Краснодар (не готов к переезду)</span><p data-v-251e757f>Семейное положение:</p><span data-v-251e757f>Женат (двое детей)</span><p data-v-251e757f>Предполагаемая занятость:</p><span data-v-251e757f>полная занятость, частичная занятость, проектная работа, стажировка</span><p data-v-251e757f>Предполагаемый график работы:</p><span data-v-251e757f>полный рабочий день, гибкий график, удаленная работа</span><p data-v-251e757f>Образование:</p><span data-v-251e757f>высшее техническое</span><p data-v-251e757f>Знание английского языка:</p><span data-v-251e757f>уровень школы/института - уверенно со словарем</span></div></div>', 1);
+const _hoisted_2$1 = /* @__PURE__ */ createStaticVNode('<div class="about" data-v-ee2b7d01><div class="head-container" data-v-ee2b7d01><img src="' + _imports_0$1 + '" alt="about" data-v-ee2b7d01><h2 data-v-ee2b7d01>Подробнее о себе</h2></div><div class="content-container" data-v-ee2b7d01><p data-v-ee2b7d01>Ф.И.О.</p><span data-v-ee2b7d01>Швецов Александр Владимирович</span><p data-v-ee2b7d01>Дата рождения:</p><span data-v-ee2b7d01>02.07.1987</span><p data-v-ee2b7d01>Гражданство:</p><span data-v-ee2b7d01>Россия</span><p data-v-ee2b7d01>Город проживания:</p><span data-v-ee2b7d01>Краснодар (не готов к переезду)</span><p data-v-ee2b7d01>Семейное положение:</p><span data-v-ee2b7d01>Женат (двое детей)</span><p data-v-ee2b7d01>Предполагаемая занятость:</p><span data-v-ee2b7d01>полная занятость, частичная занятость, проектная работа, стажировка</span><p data-v-ee2b7d01>Предполагаемый график работы:</p><span data-v-ee2b7d01>полный рабочий день, гибкий график, удаленная работа</span><p data-v-ee2b7d01>Образование:</p><span data-v-ee2b7d01>высшее техническое</span><p data-v-ee2b7d01>Знание английского языка:</p><span data-v-ee2b7d01>уровень школы/института - уверенно со словарем</span></div></div>', 1);
 const _hoisted_3 = [
   _hoisted_2$1
 ];
 function _sfc_render$1(_ctx, _cache) {
   return openBlock(), createElementBlock("div", _hoisted_1$1, _hoisted_3);
 }
-const AboutMe = /* @__PURE__ */ _export_sfc(_sfc_main$1, [["render", _sfc_render$1], ["__scopeId", "data-v-251e757f"]]);
+const AboutMe = /* @__PURE__ */ _export_sfc(_sfc_main$1, [["render", _sfc_render$1], ["__scopeId", "data-v-ee2b7d01"]]);
 const _imports_0 = "" + new URL("connection-afwOJBgE.png", import.meta.url).href;
 const _sfc_main = {};
 const _hoisted_1 = { class: "main" };

@@ -37,18 +37,18 @@ body {
     background-image: url("./background-UflufwNY.jpg");
 }  
 
-.main[data-v-4ed29ad0] {
+.main[data-v-87b96396] {
     margin-top: 20px;
     display: flex;
     flex-direction: column;
 }
-.head-container[data-v-4ed29ad0] {
+.head-container[data-v-87b96396] {
     display: flex;
     justify-content: center;
     align-items: flex-start;
     flex-wrap: wrap;
 }
-.hello-container[data-v-4ed29ad0] {
+.hello-container[data-v-87b96396] {
     box-sizing: border-box;
     background-color: rgb(113, 194, 224);
     border: 1px solid #043d75;
@@ -58,10 +58,10 @@ body {
     align-items: center;
     padding: 5px;
 }
-.img-hello[data-v-4ed29ad0] {
+.img-hello[data-v-87b96396] {
     width: 100px;
 }
-.circle-photo[data-v-4ed29ad0]{
+.circle-photo[data-v-87b96396]{
   display: inline-block;
   border-radius: 50%;
   overflow: hidden;
@@ -69,12 +69,12 @@ body {
   height: 250px;
   margin-top: 5px;
 }
-.circle-photo .my-photo[data-v-4ed29ad0]{
+.circle-photo .my-photo[data-v-87b96396]{
   width:100%;
   height:100%;
   object-fit: cover;
 }
-.content-container[data-v-4ed29ad0] {
+.content-container[data-v-87b96396] {
     width: 75%;
     margin: 0 auto;
     margin-top: 20px;
@@ -85,7 +85,7 @@ body {
     padding: 10px;
 }
 @media (max-width: 800px) {
-.content-container[data-v-4ed29ad0] {
+.content-container[data-v-87b96396] {
         width: 90%;
 }
 }
@@ -222,14 +222,14 @@ h2[data-v-e5280fc2] {
 }
 }    
 
-.about[data-v-251e757f] {
+.about[data-v-ee2b7d01] {
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
     align-items: flex-start;
     margin-top: 20px;
 }
-.head-container[data-v-251e757f] {
+.head-container[data-v-ee2b7d01] {
     display: flex;
     align-items: center;
     border: 1px solid #043d75;
@@ -240,29 +240,29 @@ h2[data-v-e5280fc2] {
     color: #043d75;
     margin: 0 35px 35px 0;
 }
-img[data-v-251e757f] {
+img[data-v-ee2b7d01] {
     width: 75px;
     height: 90px;
     margin-right: 30px;
 }
-h2[data-v-251e757f] {
+h2[data-v-ee2b7d01] {
     margin: 0;
 }
-.content-container[data-v-251e757f] {
+.content-container[data-v-ee2b7d01] {
     background-color: rgb(113, 194, 224);
     border: 1px solid #043d75;
     border-radius: 6px;
     padding: 10px;
 }
-p[data-v-251e757f] {
+p[data-v-ee2b7d01] {
     margin-bottom: 0;
 }
-span[data-v-251e757f] {
+span[data-v-ee2b7d01] {
     margin: 0;
     font-weight: 600;
 }
 @media (max-width: 750px) {
-.head-container[data-v-251e757f] {
+.head-container[data-v-ee2b7d01] {
         margin-right: 0;
 }
 }      
