@@ -13421,35 +13421,33 @@ const _imports_1 = "" + new URL("my-photo-bcg7wWUh.png", import.meta.url).href;
 const _sfc_main$5 = {
   name: "Home"
 };
-const _withScopeId$1 = (n) => (pushScopeId("data-v-87b96396"), n = n(), popScopeId(), n);
+const _withScopeId$1 = (n) => (pushScopeId("data-v-fa7874da"), n = n(), popScopeId(), n);
 const _hoisted_1$w = { class: "main" };
-const _hoisted_2$s = /* @__PURE__ */ createStaticVNode('<div class="head-container" data-v-87b96396><div class="hello-container" data-v-87b96396><img class="img-hello" src="' + _imports_0$5 + '" alt="Hello" data-v-87b96396><h1 data-v-87b96396>Добро пожаловать!</h1></div><div class="circle-photo" data-v-87b96396><img class="my-photo" src="' + _imports_1 + '" alt="my photo" data-v-87b96396></div></div>', 1);
+const _hoisted_2$s = /* @__PURE__ */ createStaticVNode('<div class="head-container" data-v-fa7874da><div class="hello-container" data-v-fa7874da><img class="img-hello" src="' + _imports_0$5 + '" alt="Hello" data-v-fa7874da><h1 data-v-fa7874da>Добро пожаловать!</h1></div><div class="circle-photo" data-v-fa7874da><img class="my-photo" src="' + _imports_1 + '" alt="my photo" data-v-fa7874da></div></div>', 1);
 const _hoisted_3$g = { class: "content-container" };
 const _hoisted_4$e = /* @__PURE__ */ _withScopeId$1(() => /* @__PURE__ */ createBaseVNode("br", null, null, -1));
 const _hoisted_5$d = /* @__PURE__ */ _withScopeId$1(() => /* @__PURE__ */ createBaseVNode("br", null, null, -1));
 const _hoisted_6$c = /* @__PURE__ */ _withScopeId$1(() => /* @__PURE__ */ createBaseVNode("br", null, null, -1));
 const _hoisted_7$2 = /* @__PURE__ */ _withScopeId$1(() => /* @__PURE__ */ createBaseVNode("br", null, null, -1));
 const _hoisted_8$1 = /* @__PURE__ */ _withScopeId$1(() => /* @__PURE__ */ createBaseVNode("br", null, null, -1));
-const _hoisted_9$1 = /* @__PURE__ */ _withScopeId$1(() => /* @__PURE__ */ createBaseVNode("br", null, null, -1));
+const _hoisted_9$1 = /* @__PURE__ */ _withScopeId$1(() => /* @__PURE__ */ createBaseVNode("u", null, "Мои текущие навыки:", -1));
 const _hoisted_10 = /* @__PURE__ */ _withScopeId$1(() => /* @__PURE__ */ createBaseVNode("br", null, null, -1));
-const _hoisted_11 = /* @__PURE__ */ _withScopeId$1(() => /* @__PURE__ */ createBaseVNode("u", null, "Мои текущие навыки:", -1));
+const _hoisted_11 = /* @__PURE__ */ _withScopeId$1(() => /* @__PURE__ */ createBaseVNode("br", null, null, -1));
 const _hoisted_12 = /* @__PURE__ */ _withScopeId$1(() => /* @__PURE__ */ createBaseVNode("br", null, null, -1));
 const _hoisted_13 = /* @__PURE__ */ _withScopeId$1(() => /* @__PURE__ */ createBaseVNode("br", null, null, -1));
 const _hoisted_14 = /* @__PURE__ */ _withScopeId$1(() => /* @__PURE__ */ createBaseVNode("br", null, null, -1));
-const _hoisted_15 = /* @__PURE__ */ _withScopeId$1(() => /* @__PURE__ */ createBaseVNode("br", null, null, -1));
-const _hoisted_16 = /* @__PURE__ */ _withScopeId$1(() => /* @__PURE__ */ createBaseVNode("br", null, null, -1));
-const _hoisted_17 = /* @__PURE__ */ _withScopeId$1(() => /* @__PURE__ */ createBaseVNode("a", { href: "https://primevue.org" }, "PrimeVue", -1));
-const _hoisted_18 = /* @__PURE__ */ _withScopeId$1(() => /* @__PURE__ */ createBaseVNode("a", { href: "https://primeflex.org" }, "PrimeFlex", -1));
-const _hoisted_19 = /* @__PURE__ */ _withScopeId$1(() => /* @__PURE__ */ createBaseVNode("a", { href: "https://getbootstrap.com" }, "Bootstrap", -1));
-const _hoisted_20 = /* @__PURE__ */ _withScopeId$1(() => /* @__PURE__ */ createBaseVNode("br", null, null, -1));
-const _hoisted_21 = /* @__PURE__ */ _withScopeId$1(() => /* @__PURE__ */ createBaseVNode("a", { href: "https://mokky.dev" }, "Mokky.dev", -1));
-const _hoisted_22 = /* @__PURE__ */ _withScopeId$1(() => /* @__PURE__ */ createBaseVNode("a", { href: "https://firebase.google.com" }, "firebase;", -1));
+const _hoisted_15 = /* @__PURE__ */ _withScopeId$1(() => /* @__PURE__ */ createBaseVNode("a", { href: "https://primevue.org" }, "PrimeVue", -1));
+const _hoisted_16 = /* @__PURE__ */ _withScopeId$1(() => /* @__PURE__ */ createBaseVNode("a", { href: "https://primeflex.org" }, "PrimeFlex", -1));
+const _hoisted_17 = /* @__PURE__ */ _withScopeId$1(() => /* @__PURE__ */ createBaseVNode("a", { href: "https://getbootstrap.com" }, "Bootstrap", -1));
+const _hoisted_18 = /* @__PURE__ */ _withScopeId$1(() => /* @__PURE__ */ createBaseVNode("br", null, null, -1));
+const _hoisted_19 = /* @__PURE__ */ _withScopeId$1(() => /* @__PURE__ */ createBaseVNode("a", { href: "https://mokky.dev" }, "Mokky.dev", -1));
+const _hoisted_20 = /* @__PURE__ */ _withScopeId$1(() => /* @__PURE__ */ createBaseVNode("a", { href: "https://firebase.google.com" }, "firebase;", -1));
+const _hoisted_21 = /* @__PURE__ */ _withScopeId$1(() => /* @__PURE__ */ createBaseVNode("br", null, null, -1));
+const _hoisted_22 = /* @__PURE__ */ _withScopeId$1(() => /* @__PURE__ */ createBaseVNode("a", { href: "https://github.com/SAVe1831?tab=repositories" }, "GitHub", -1));
 const _hoisted_23 = /* @__PURE__ */ _withScopeId$1(() => /* @__PURE__ */ createBaseVNode("br", null, null, -1));
-const _hoisted_24 = /* @__PURE__ */ _withScopeId$1(() => /* @__PURE__ */ createBaseVNode("a", { href: "https://github.com/SAVe1831?tab=repositories" }, "GitHub", -1));
+const _hoisted_24 = /* @__PURE__ */ _withScopeId$1(() => /* @__PURE__ */ createBaseVNode("br", null, null, -1));
 const _hoisted_25 = /* @__PURE__ */ _withScopeId$1(() => /* @__PURE__ */ createBaseVNode("br", null, null, -1));
 const _hoisted_26 = /* @__PURE__ */ _withScopeId$1(() => /* @__PURE__ */ createBaseVNode("br", null, null, -1));
-const _hoisted_27 = /* @__PURE__ */ _withScopeId$1(() => /* @__PURE__ */ createBaseVNode("br", null, null, -1));
-const _hoisted_28 = /* @__PURE__ */ _withScopeId$1(() => /* @__PURE__ */ createBaseVNode("br", null, null, -1));
 function _sfc_render$5(_ctx, _cache, $props, $setup, $data, $options) {
   const _component_router_link = resolveComponent("router-link");
   return openBlock(), createElementBlock("div", _hoisted_1$w, [
@@ -13459,43 +13457,40 @@ function _sfc_render$5(_ctx, _cache, $props, $setup, $data, $options) {
         createTextVNode("Меня зовут Александр."),
         _hoisted_4$e,
         _hoisted_5$d,
-        createTextVNode(" Я начинающий веб-разработчик, на данный момент специализируюсь на фреймворке Vue."),
+        createTextVNode(" Я frontend-разработчик, на данный момент специализируюсь на фреймворке Vue."),
         _hoisted_6$c,
-        createTextVNode(" Нахожусь в поиске работы-стажировки позиции веб-верстальщика начального уровня. Готов рассмотреть предложение даже с небольшой заработной платой, но с возможностью обучения для дальнейшего развития."),
+        createTextVNode(" Нахожусь в поиске работы. Готов рассмотреть предложение даже с небольшой заработной платой, но с возможностью дальнейшего развития."),
         _hoisted_7$2,
         _hoisted_8$1,
-        createTextVNode(" Считаю себя добросовестным, надежным, внимательным и исполнительным. Открыт для новых знаний в процессе работы над собой."),
         _hoisted_9$1,
         _hoisted_10,
-        _hoisted_11,
-        _hoisted_12,
         createTextVNode(" - Хорошее знание HTML, CSS;"),
-        _hoisted_13,
+        _hoisted_11,
         createTextVNode(" - Небольшой опыт работы с Vue3 и JS;"),
-        _hoisted_14,
+        _hoisted_12,
         createTextVNode(" - Имеются опыт, знания и понимание процесса работы с инструментами сборки vite;"),
-        _hoisted_15,
+        _hoisted_13,
         createTextVNode(" - В процессе обучения и создания личных демонстрационных проектов имелся опыт работы со стейт менеджерами Vuex и Pinia;"),
-        _hoisted_16,
+        _hoisted_14,
         createTextVNode(" - Хорошо знаком и уже использовал UI библиотеки "),
-        _hoisted_17,
+        _hoisted_15,
         createTextVNode(", "),
-        _hoisted_18,
+        _hoisted_16,
         createTextVNode(" и "),
-        _hoisted_19,
+        _hoisted_17,
         createTextVNode(";"),
-        _hoisted_20,
+        _hoisted_18,
         createTextVNode(" - Для хранения данных пока выбирал "),
-        _hoisted_21,
+        _hoisted_19,
         createTextVNode(" и "),
-        _hoisted_22,
+        _hoisted_20,
         createTextVNode(),
-        _hoisted_23,
+        _hoisted_21,
         createTextVNode(" - Умею работать с системой контроля версий Git. Имеется аккаунт на "),
-        _hoisted_24,
+        _hoisted_22,
         createTextVNode(" с несколькими репозиториями."),
-        _hoisted_25,
-        _hoisted_26,
+        _hoisted_23,
+        _hoisted_24,
         createTextVNode(" Для более детального рассмотрения моих текущих навыков Вы можете перейти на страницу с небольшим "),
         createVNode(_component_router_link, { to: "/portfolio" }, {
           default: withCtx(() => [
@@ -13504,8 +13499,8 @@ function _sfc_render$5(_ctx, _cache, $props, $setup, $data, $options) {
           _: 1
         }),
         createTextVNode("."),
-        _hoisted_27,
-        _hoisted_28,
+        _hoisted_25,
+        _hoisted_26,
         createTextVNode(" Если появилось желание больше узнать обо мне, то Вы можете перейти на следующую "),
         createVNode(_component_router_link, { to: "/about" }, {
           default: withCtx(() => [
@@ -13518,18 +13513,18 @@ function _sfc_render$5(_ctx, _cache, $props, $setup, $data, $options) {
     ])
   ]);
 }
-const Home = /* @__PURE__ */ _export_sfc(_sfc_main$5, [["render", _sfc_render$5], ["__scopeId", "data-v-87b96396"]]);
+const Home = /* @__PURE__ */ _export_sfc(_sfc_main$5, [["render", _sfc_render$5], ["__scopeId", "data-v-fa7874da"]]);
 const _imports_0$4 = "" + new URL("education-0BLuv_iF.png", import.meta.url).href;
 const _sfc_main$4 = {};
 const _hoisted_1$v = { class: "main" };
-const _hoisted_2$r = /* @__PURE__ */ createStaticVNode('<div class="education" data-v-acc7419f><div class="head-container" data-v-acc7419f><img src="' + _imports_0$4 + '" alt="education" data-v-acc7419f><h2 data-v-acc7419f>Моё образование</h2></div><div class="content-container" data-v-acc7419f><p data-v-acc7419f><strong data-v-acc7419f>Высшее техническое</strong></p><p data-v-acc7419f>Липецкий Государственный Технический Университет (ЛГТУ)</p><p data-v-acc7419f>Факультет: Механико-машиностроительный (ММФ)</p><p data-v-acc7419f>Специальность: Технология машиностроения</p><p data-v-acc7419f>Год окончания: 2012</p><p data-v-acc7419f><strong data-v-acc7419f>Дополнительное образование</strong></p><p data-v-acc7419f>Образовательная онлайн платформа ООО &quot;Нетология&quot;</p><p data-v-acc7419f>Специальность: JavaScript-программирование</p><p data-v-acc7419f>Год окончания: 2023</p></div></div>', 1);
+const _hoisted_2$r = /* @__PURE__ */ createStaticVNode('<div class="education" data-v-aea359af><div class="head-container" data-v-aea359af><img src="' + _imports_0$4 + '" alt="education" data-v-aea359af><h2 data-v-aea359af>Моё образование</h2></div><div class="content-container" data-v-aea359af><p data-v-aea359af><strong data-v-aea359af>Высшее техническое</strong></p><p data-v-aea359af>Липецкий Государственный Технический Университет (ЛГТУ)</p><p data-v-aea359af>Факультет: Механико-машиностроительный (ММФ)</p><p data-v-aea359af>Специальность: Технология машиностроения</p><p data-v-aea359af>Год окончания: 2012</p><p data-v-aea359af><strong data-v-aea359af>Дополнительное образование</strong></p><p data-v-aea359af>Образовательная онлайн платформа ООО &quot;Нетология&quot;</p><p data-v-aea359af>Специальность: JavaScript-программирование</p><p data-v-aea359af>Год окончания: 2023</p><p data-v-aea359af>Далее самостоятельное изучение и практика JavaScript и фреймворка Vue3</p></div></div>', 1);
 const _hoisted_3$f = [
   _hoisted_2$r
 ];
 function _sfc_render$4(_ctx, _cache) {
   return openBlock(), createElementBlock("div", _hoisted_1$v, _hoisted_3$f);
 }
-const Education = /* @__PURE__ */ _export_sfc(_sfc_main$4, [["render", _sfc_render$4], ["__scopeId", "data-v-acc7419f"]]);
+const Education = /* @__PURE__ */ _export_sfc(_sfc_main$4, [["render", _sfc_render$4], ["__scopeId", "data-v-aea359af"]]);
 var script$E = {
   name: "ArrowDownIcon",
   "extends": script$M
@@ -20420,8 +20415,8 @@ function _toPrimitive$a(t, r) {
 }
 var _hoisted_1$4 = ["colspan", "rowspan", "data-p-selection-column", "data-p-editable-column", "data-p-cell-editing", "data-p-frozen-column"];
 var _hoisted_2$2$1 = ["aria-expanded", "aria-controls", "aria-label"];
-var _hoisted_3$2 = ["aria-label"];
-var _hoisted_4$1 = ["aria-label"];
+var _hoisted_3$2$1 = ["aria-label"];
+var _hoisted_4$1$1 = ["aria-label"];
 var _hoisted_5$1 = ["aria-label"];
 function render$9(_ctx, _cache, $props, $setup, $data, $options) {
   var _component_DTRadioButton = resolveComponent("DTRadioButton");
@@ -20570,7 +20565,7 @@ function render$9(_ctx, _cache, $props, $setup, $data, $options) {
     "data-pc-group-section": "rowactionbutton"
   }), [(openBlock(), createBlock(resolveDynamicComponent($props.column.children && $props.column.children.roweditoriniticon || "PencilIcon"), mergeProps({
     "class": _ctx.cx("rowEditorInitIcon")
-  }, $options.getColumnPT("rowEditorInitIcon")), null, 16, ["class"]))], 16, _hoisted_3$2)), [[_directive_ripple]]) : createCommentVNode("", true), $data.d_editing ? withDirectives((openBlock(), createElementBlock("button", mergeProps({
+  }, $options.getColumnPT("rowEditorInitIcon")), null, 16, ["class"]))], 16, _hoisted_3$2$1)), [[_directive_ripple]]) : createCommentVNode("", true), $data.d_editing ? withDirectives((openBlock(), createElementBlock("button", mergeProps({
     key: 1,
     "class": _ctx.cx("rowEditorSaveButton"),
     type: "button",
@@ -20582,7 +20577,7 @@ function render$9(_ctx, _cache, $props, $setup, $data, $options) {
     "data-pc-group-section": "rowactionbutton"
   }), [(openBlock(), createBlock(resolveDynamicComponent($props.column.children && $props.column.children.roweditorsaveicon || "CheckIcon"), mergeProps({
     "class": _ctx.cx("rowEditorSaveIcon")
-  }, $options.getColumnPT("rowEditorSaveIcon")), null, 16, ["class"]))], 16, _hoisted_4$1)), [[_directive_ripple]]) : createCommentVNode("", true), $data.d_editing ? withDirectives((openBlock(), createElementBlock("button", mergeProps({
+  }, $options.getColumnPT("rowEditorSaveIcon")), null, 16, ["class"]))], 16, _hoisted_4$1$1)), [[_directive_ripple]]) : createCommentVNode("", true), $data.d_editing ? withDirectives((openBlock(), createElementBlock("button", mergeProps({
     key: 2,
     "class": _ctx.cx("rowEditorCancelButton"),
     type: "button",
@@ -26624,7 +26619,7 @@ const _sfc_main$3 = {
     };
   }
 };
-const _withScopeId = (n) => (pushScopeId("data-v-4038832f"), n = n(), popScopeId(), n);
+const _withScopeId = (n) => (pushScopeId("data-v-663d0925"), n = n(), popScopeId(), n);
 const _hoisted_1$3 = { class: "main" };
 const _hoisted_2$3 = /* @__PURE__ */ _withScopeId(() => /* @__PURE__ */ createBaseVNode("div", { class: "head-container" }, [
   /* @__PURE__ */ createBaseVNode("img", {
@@ -26634,32 +26629,18 @@ const _hoisted_2$3 = /* @__PURE__ */ _withScopeId(() => /* @__PURE__ */ createBa
   }),
   /* @__PURE__ */ createBaseVNode("h1", null, "Опыт работы")
 ], -1));
+const _hoisted_3$2 = /* @__PURE__ */ _withScopeId(() => /* @__PURE__ */ createBaseVNode("div", { class: "content-container" }, [
+  /* @__PURE__ */ createBaseVNode("p", null, "Ни одна из занимаемых мной прежде должностей не имела никакого отношения к веб-разработке."),
+  /* @__PURE__ */ createBaseVNode("p", null, "Я добросовестно трудился в других сферах.")
+], -1));
+const _hoisted_4$1 = [
+  _hoisted_2$3,
+  _hoisted_3$2
+];
 function _sfc_render$3(_ctx, _cache, $props, $setup, $data, $options) {
-  const _component_Column = resolveComponent("Column");
-  const _component_DataTable = resolveComponent("DataTable");
-  return openBlock(), createElementBlock("div", _hoisted_1$3, [
-    _hoisted_2$3,
-    createVNode(_component_DataTable, {
-      class: "table",
-      value: $data.items
-    }, {
-      default: withCtx(() => [
-        createVNode(_component_Column, {
-          style: { "background-color": "rgb(113, 194, 224)", "border": "1px solid #043d75", "padding": "5px", "text-align": "center" },
-          field: "date",
-          header: "Даты/Сроки"
-        }),
-        createVNode(_component_Column, {
-          style: { "background-color": "rgb(113, 194, 224)", "border": "1px solid #043d75", "padding": "5px", "white-space": "pre-line" },
-          field: "organization",
-          header: "Организация/Должность/Должностные обязанности"
-        })
-      ]),
-      _: 1
-    }, 8, ["value"])
-  ]);
+  return openBlock(), createElementBlock("div", _hoisted_1$3, _hoisted_4$1);
 }
-const Experience = /* @__PURE__ */ _export_sfc(_sfc_main$3, [["render", _sfc_render$3], ["__scopeId", "data-v-4038832f"]]);
+const Experience = /* @__PURE__ */ _export_sfc(_sfc_main$3, [["render", _sfc_render$3], ["__scopeId", "data-v-663d0925"]]);
 const _imports_0$2 = "" + new URL("portfolio-nnKsIw2y.png", import.meta.url).href;
 const _sfc_main$2 = {};
 const _hoisted_1$2 = { class: "main" };
@@ -26674,14 +26655,14 @@ const Portfolio = /* @__PURE__ */ _export_sfc(_sfc_main$2, [["render", _sfc_rend
 const _imports_0$1 = "" + new URL("about-SGcLEmNG.png", import.meta.url).href;
 const _sfc_main$1 = {};
 const _hoisted_1$1 = { class: "main" };
-const _hoisted_2$1 = /* @__PURE__ */ createStaticVNode('<div class="about" data-v-ee2b7d01><div class="head-container" data-v-ee2b7d01><img src="' + _imports_0$1 + '" alt="about" data-v-ee2b7d01><h2 data-v-ee2b7d01>Подробнее о себе</h2></div><div class="content-container" data-v-ee2b7d01><p data-v-ee2b7d01>Ф.И.О.</p><span data-v-ee2b7d01>Швецов Александр Владимирович</span><p data-v-ee2b7d01>Дата рождения:</p><span data-v-ee2b7d01>02.07.1987</span><p data-v-ee2b7d01>Гражданство:</p><span data-v-ee2b7d01>Россия</span><p data-v-ee2b7d01>Город проживания:</p><span data-v-ee2b7d01>Краснодар (не готов к переезду)</span><p data-v-ee2b7d01>Семейное положение:</p><span data-v-ee2b7d01>Женат (двое детей)</span><p data-v-ee2b7d01>Предполагаемая занятость:</p><span data-v-ee2b7d01>полная занятость, частичная занятость, проектная работа, стажировка</span><p data-v-ee2b7d01>Предполагаемый график работы:</p><span data-v-ee2b7d01>полный рабочий день, гибкий график, удаленная работа</span><p data-v-ee2b7d01>Образование:</p><span data-v-ee2b7d01>высшее техническое</span><p data-v-ee2b7d01>Знание английского языка:</p><span data-v-ee2b7d01>уровень школы/института - уверенно со словарем</span></div></div>', 1);
+const _hoisted_2$1 = /* @__PURE__ */ createStaticVNode('<div class="about" data-v-ee7bba97><div class="head-container" data-v-ee7bba97><img src="' + _imports_0$1 + '" alt="about" data-v-ee7bba97><h2 data-v-ee7bba97>Подробнее о себе</h2></div><div class="content-container" data-v-ee7bba97><p data-v-ee7bba97>Ф.И.О.</p><span data-v-ee7bba97>Швецов Александр Владимирович</span><p data-v-ee7bba97>Дата рождения:</p><span data-v-ee7bba97>02.07.1987</span><p data-v-ee7bba97>Гражданство:</p><span data-v-ee7bba97>Россия</span><p data-v-ee7bba97>Город проживания:</p><span data-v-ee7bba97>Краснодар (не готов к переезду)</span><p data-v-ee7bba97>Семейное положение:</p><span data-v-ee7bba97>Женат (двое детей)</span><p data-v-ee7bba97>Предполагаемая занятость:</p><span data-v-ee7bba97>полная занятость, частичная занятость, проектная работа</span><p data-v-ee7bba97>Предполагаемый график работы:</p><span data-v-ee7bba97>полный рабочий день, гибкий график, удаленная работа</span><p data-v-ee7bba97>Образование:</p><span data-v-ee7bba97>высшее техническое</span><p data-v-ee7bba97>Знание английского языка:</p><span data-v-ee7bba97>уровень школы/института - уверенно со словарем</span></div></div>', 1);
 const _hoisted_3 = [
   _hoisted_2$1
 ];
 function _sfc_render$1(_ctx, _cache) {
   return openBlock(), createElementBlock("div", _hoisted_1$1, _hoisted_3);
 }
-const AboutMe = /* @__PURE__ */ _export_sfc(_sfc_main$1, [["render", _sfc_render$1], ["__scopeId", "data-v-ee2b7d01"]]);
+const AboutMe = /* @__PURE__ */ _export_sfc(_sfc_main$1, [["render", _sfc_render$1], ["__scopeId", "data-v-ee7bba97"]]);
 const _imports_0 = "" + new URL("connection-afwOJBgE.png", import.meta.url).href;
 const _sfc_main = {};
 const _hoisted_1 = { class: "main" };
