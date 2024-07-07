@@ -4,10 +4,14 @@
             <img class="img-exp" src="@/images/experience.png" alt="experience">
             <h1>Опыт работы</h1>
         </div>
-        <DataTable class="table" :value="items">
+        <div class="content-container">
+            <p>Ни одна из занимаемых мной прежде должностей не имела никакого отношения к веб-разработке.</p>
+            <p>Я добросовестно трудился в других сферах.</p>
+        </div>
+        <!-- <DataTable class="table" :value="items">
             <Column style="background-color: rgb(113, 194, 224); border: 1px solid #043d75; padding: 5px; text-align: center;" field="date" header="Даты/Сроки"></Column>
             <Column style="background-color: rgb(113, 194, 224); border: 1px solid #043d75; padding: 5px; white-space: pre-line;" field="organization" header="Организация/Должность/Должностные обязанности"></Column>
-        </DataTable>
+        </DataTable> -->
     </div>
 </template>
 
@@ -98,7 +102,7 @@ export default {
 .img-exp {
     width: 100px;
 }
-.content-container {
+/* .content-container {
     box-sizing: border-box;
     background-color: rgb(113, 194, 224);
     border: 1px solid #043d75;
@@ -107,6 +111,16 @@ export default {
     justify-content: center;
     align-items: center;
     padding: 5px;
+} */
+.content-container {
+    background-color: rgb(113, 194, 224);
+    border: 1px solid #043d75;
+    border-radius: 6px;
+    padding: 10px;
+    
+}
+p {
+    font-size: 30px;
 }
 @media (max-width: 750px) {
     .head-container {
