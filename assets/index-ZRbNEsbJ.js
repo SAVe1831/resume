@@ -13421,9 +13421,9 @@ const _imports_1 = "" + new URL("my-photo-bcg7wWUh.png", import.meta.url).href;
 const _sfc_main$5 = {
   name: "Home"
 };
-const _withScopeId$1 = (n) => (pushScopeId("data-v-fa7874da"), n = n(), popScopeId(), n);
+const _withScopeId$1 = (n) => (pushScopeId("data-v-e4e803b5"), n = n(), popScopeId(), n);
 const _hoisted_1$w = { class: "main" };
-const _hoisted_2$s = /* @__PURE__ */ createStaticVNode('<div class="head-container" data-v-fa7874da><div class="hello-container" data-v-fa7874da><img class="img-hello" src="' + _imports_0$5 + '" alt="Hello" data-v-fa7874da><h1 data-v-fa7874da>Добро пожаловать!</h1></div><div class="circle-photo" data-v-fa7874da><img class="my-photo" src="' + _imports_1 + '" alt="my photo" data-v-fa7874da></div></div>', 1);
+const _hoisted_2$s = /* @__PURE__ */ createStaticVNode('<div class="head-container" data-v-e4e803b5><div class="hello-container" data-v-e4e803b5><img class="img-hello" src="' + _imports_0$5 + '" alt="Hello" data-v-e4e803b5><h1 data-v-e4e803b5>Добро пожаловать!</h1></div><div class="circle-photo" data-v-e4e803b5><img class="my-photo" src="' + _imports_1 + '" alt="my photo" data-v-e4e803b5></div></div>', 1);
 const _hoisted_3$g = { class: "content-container" };
 const _hoisted_4$e = /* @__PURE__ */ _withScopeId$1(() => /* @__PURE__ */ createBaseVNode("br", null, null, -1));
 const _hoisted_5$d = /* @__PURE__ */ _withScopeId$1(() => /* @__PURE__ */ createBaseVNode("br", null, null, -1));
@@ -13457,7 +13457,7 @@ function _sfc_render$5(_ctx, _cache, $props, $setup, $data, $options) {
         createTextVNode("Меня зовут Александр."),
         _hoisted_4$e,
         _hoisted_5$d,
-        createTextVNode(" Я frontend-разработчик, на данный момент специализируюсь на фреймворке Vue."),
+        createTextVNode(" Я frontend-разработчик, на данный момент специализируюсь на фреймворке Vue3."),
         _hoisted_6$c,
         createTextVNode(" Нахожусь в поиске работы. Готов рассмотреть предложение даже с небольшой заработной платой, но с возможностью дальнейшего развития."),
         _hoisted_7$2,
@@ -13466,7 +13466,7 @@ function _sfc_render$5(_ctx, _cache, $props, $setup, $data, $options) {
         _hoisted_10,
         createTextVNode(" - Хорошее знание HTML, CSS;"),
         _hoisted_11,
-        createTextVNode(" - Небольшой опыт работы с Vue3 и JS;"),
+        createTextVNode(" - Средний опыт работы с Vue3 и JS;"),
         _hoisted_12,
         createTextVNode(" - Имеются опыт, знания и понимание процесса работы с инструментами сборки vite;"),
         _hoisted_13,
@@ -13513,18 +13513,18 @@ function _sfc_render$5(_ctx, _cache, $props, $setup, $data, $options) {
     ])
   ]);
 }
-const Home = /* @__PURE__ */ _export_sfc(_sfc_main$5, [["render", _sfc_render$5], ["__scopeId", "data-v-fa7874da"]]);
+const Home = /* @__PURE__ */ _export_sfc(_sfc_main$5, [["render", _sfc_render$5], ["__scopeId", "data-v-e4e803b5"]]);
 const _imports_0$4 = "" + new URL("education-0BLuv_iF.png", import.meta.url).href;
 const _sfc_main$4 = {};
 const _hoisted_1$v = { class: "main" };
-const _hoisted_2$r = /* @__PURE__ */ createStaticVNode('<div class="education" data-v-aea359af><div class="head-container" data-v-aea359af><img src="' + _imports_0$4 + '" alt="education" data-v-aea359af><h2 data-v-aea359af>Моё образование</h2></div><div class="content-container" data-v-aea359af><p data-v-aea359af><strong data-v-aea359af>Высшее техническое</strong></p><p data-v-aea359af>Липецкий Государственный Технический Университет (ЛГТУ)</p><p data-v-aea359af>Факультет: Механико-машиностроительный (ММФ)</p><p data-v-aea359af>Специальность: Технология машиностроения</p><p data-v-aea359af>Год окончания: 2012</p><p data-v-aea359af><strong data-v-aea359af>Дополнительное образование</strong></p><p data-v-aea359af>Образовательная онлайн платформа ООО &quot;Нетология&quot;</p><p data-v-aea359af>Специальность: JavaScript-программирование</p><p data-v-aea359af>Год окончания: 2023</p><p data-v-aea359af>Далее самостоятельное изучение и практика JavaScript и фреймворка Vue3</p></div></div>', 1);
+const _hoisted_2$r = /* @__PURE__ */ createStaticVNode('<div class="education" data-v-1b4941fa><div class="head-container" data-v-1b4941fa><img src="' + _imports_0$4 + '" alt="education" data-v-1b4941fa><h2 data-v-1b4941fa>Моё образование</h2></div><div class="content-container" data-v-1b4941fa><p data-v-1b4941fa><strong data-v-1b4941fa>Высшее техническое</strong></p><p data-v-1b4941fa>Липецкий Государственный Технический Университет (ЛГТУ)</p><p data-v-1b4941fa>Факультет: Механико-машиностроительный (ММФ)</p><p data-v-1b4941fa>Специальность: Технология машиностроения</p><p data-v-1b4941fa>Год окончания: 2012</p><p data-v-1b4941fa><strong data-v-1b4941fa>Дополнительное образование</strong></p><p data-v-1b4941fa>Образовательная онлайн платформа ООО &quot;Нетология&quot;</p><p data-v-1b4941fa>Специальность: JavaScript-программирование</p><p data-v-1b4941fa>Год окончания: 2023</p><p data-v-1b4941fa>Параллельно проходило самостоятельное изучение фреймворка Vue3.</p></div></div>', 1);
 const _hoisted_3$f = [
   _hoisted_2$r
 ];
 function _sfc_render$4(_ctx, _cache) {
   return openBlock(), createElementBlock("div", _hoisted_1$v, _hoisted_3$f);
 }
-const Education = /* @__PURE__ */ _export_sfc(_sfc_main$4, [["render", _sfc_render$4], ["__scopeId", "data-v-aea359af"]]);
+const Education = /* @__PURE__ */ _export_sfc(_sfc_main$4, [["render", _sfc_render$4], ["__scopeId", "data-v-1b4941fa"]]);
 var script$E = {
   name: "ArrowDownIcon",
   "extends": script$M
@@ -20415,8 +20415,8 @@ function _toPrimitive$a(t, r) {
 }
 var _hoisted_1$4 = ["colspan", "rowspan", "data-p-selection-column", "data-p-editable-column", "data-p-cell-editing", "data-p-frozen-column"];
 var _hoisted_2$2$1 = ["aria-expanded", "aria-controls", "aria-label"];
-var _hoisted_3$2$1 = ["aria-label"];
-var _hoisted_4$1$1 = ["aria-label"];
+var _hoisted_3$2 = ["aria-label"];
+var _hoisted_4$1 = ["aria-label"];
 var _hoisted_5$1 = ["aria-label"];
 function render$9(_ctx, _cache, $props, $setup, $data, $options) {
   var _component_DTRadioButton = resolveComponent("DTRadioButton");
@@ -20565,7 +20565,7 @@ function render$9(_ctx, _cache, $props, $setup, $data, $options) {
     "data-pc-group-section": "rowactionbutton"
   }), [(openBlock(), createBlock(resolveDynamicComponent($props.column.children && $props.column.children.roweditoriniticon || "PencilIcon"), mergeProps({
     "class": _ctx.cx("rowEditorInitIcon")
-  }, $options.getColumnPT("rowEditorInitIcon")), null, 16, ["class"]))], 16, _hoisted_3$2$1)), [[_directive_ripple]]) : createCommentVNode("", true), $data.d_editing ? withDirectives((openBlock(), createElementBlock("button", mergeProps({
+  }, $options.getColumnPT("rowEditorInitIcon")), null, 16, ["class"]))], 16, _hoisted_3$2)), [[_directive_ripple]]) : createCommentVNode("", true), $data.d_editing ? withDirectives((openBlock(), createElementBlock("button", mergeProps({
     key: 1,
     "class": _ctx.cx("rowEditorSaveButton"),
     type: "button",
@@ -20577,7 +20577,7 @@ function render$9(_ctx, _cache, $props, $setup, $data, $options) {
     "data-pc-group-section": "rowactionbutton"
   }), [(openBlock(), createBlock(resolveDynamicComponent($props.column.children && $props.column.children.roweditorsaveicon || "CheckIcon"), mergeProps({
     "class": _ctx.cx("rowEditorSaveIcon")
-  }, $options.getColumnPT("rowEditorSaveIcon")), null, 16, ["class"]))], 16, _hoisted_4$1$1)), [[_directive_ripple]]) : createCommentVNode("", true), $data.d_editing ? withDirectives((openBlock(), createElementBlock("button", mergeProps({
+  }, $options.getColumnPT("rowEditorSaveIcon")), null, 16, ["class"]))], 16, _hoisted_4$1)), [[_directive_ripple]]) : createCommentVNode("", true), $data.d_editing ? withDirectives((openBlock(), createElementBlock("button", mergeProps({
     key: 2,
     "class": _ctx.cx("rowEditorCancelButton"),
     type: "button",
@@ -26569,57 +26569,34 @@ const _sfc_main$3 = {
     return {
       items: [
         {
-          date: "Август 2021 — по настоящее время",
-          organization: `(*) TEXT.RU биржа копирайтинга. 
+          date: "Август 2023 — по настоящее время",
+          organization: `(*) Индивидуальное предпринимательство / частная практика / фриланс. 
 
-                (*) Копирайтер/Рерайтер/Корректор. 
+                (*) Frontend-разработчик. 
 
-                (*) Написание и редактирование текстов по предварительно согласованному техническому заданию.`
+                (*) Разработка либо создание по готовым шаблонам (Figma, PSD) пользовательского адаптивного интерфейса для веб-приложений и веб-сайтов.`
         },
         {
-          date: "Июль 2016 — январь 2021",
-          organization: `(*) ООО «Профессиональные сервисные решения» (г.Липецк).
+          date: "Сентябрь 2022 — июль 2023",
+          organization: `(*) Образовательная онлайн платформа ООО "Нетология".
 
-                (*) Мастер, старший мастер производства химической очистки промышленного теплообменного оборудования.
+                (*) Студент-стажер.
 
-                (*) Должностные обязанности:
-                    -  Составление, оформление и подписание необходимой технической документации;
-                    -  Определение списка необходимого оборудования и товарно-материальных ценностей для выполнения работ;
-                    -  Составление проекта производства работ и его согласование с заказчиком;
-                    -  Осуществление координации работ при реализации проектов.`
-        },
-        {
-          date: "Январь 2015 — июнь 2016",
-          organization: `(*) TEXT.RU биржа копирайтинга. 
-
-                (*) Копирайтер/Рерайтер/Корректор. 
-
-                (*) Написание и редактирование текстов по предварительно согласованному техническому заданию.`
-        },
-        {
-          date: "Март 2010 — декабрь 2014",
-          organization: `(*) ООО «ЭКОС» (г.Липецк). 
-
-                (*) Cлесарь-ремонтник. 
-
-                (*) Химическая очистка промышленного теплообменного оборудования.`
-        },
-        {
-          date: "Ноябрь 2006 — март 2010",
-          organization: `(*) ОАО «Индезит интернешнл» (г.Липецк). 
-
-                (*) Слесарь механосборочных работ, бригадир. 
-
-                (*) Должностные обязанности:
-                 - Выполнение работ на сборочной линии завода стиральных машин;
-                 - Руководство бригадой и производственным процессом на сборочной линии завода стиральных машин;
-                 - Ремонт стиральных машин на промежуточной ремонтной зоне сборочной линии.`
+                (*) В процессе прохождения курса обучения были изучены следующие темы:
+                    -  Верстка сайта на HTML и CSS;
+                    -  Верстка по готовым макетам PSD и Figma;
+                    -  Адаптивная и мобильная верстка;
+                    -  Основы программирования;
+                    -  Основы JavaScript;
+                    -  Основы JavaScript в браузере;
+                    -  Система контроля версий Git.
+                    Параллельно проходило самостоятельное изучение фреймворка Vue3.`
         }
       ]
     };
   }
 };
-const _withScopeId = (n) => (pushScopeId("data-v-663d0925"), n = n(), popScopeId(), n);
+const _withScopeId = (n) => (pushScopeId("data-v-d3560c9e"), n = n(), popScopeId(), n);
 const _hoisted_1$3 = { class: "main" };
 const _hoisted_2$3 = /* @__PURE__ */ _withScopeId(() => /* @__PURE__ */ createBaseVNode("div", { class: "head-container" }, [
   /* @__PURE__ */ createBaseVNode("img", {
@@ -26629,18 +26606,32 @@ const _hoisted_2$3 = /* @__PURE__ */ _withScopeId(() => /* @__PURE__ */ createBa
   }),
   /* @__PURE__ */ createBaseVNode("h1", null, "Опыт работы")
 ], -1));
-const _hoisted_3$2 = /* @__PURE__ */ _withScopeId(() => /* @__PURE__ */ createBaseVNode("div", { class: "content-container" }, [
-  /* @__PURE__ */ createBaseVNode("p", null, "Ни одна из занимаемых мной прежде должностей не имела никакого отношения к веб-разработке."),
-  /* @__PURE__ */ createBaseVNode("p", null, "Я добросовестно трудился в других сферах.")
-], -1));
-const _hoisted_4$1 = [
-  _hoisted_2$3,
-  _hoisted_3$2
-];
 function _sfc_render$3(_ctx, _cache, $props, $setup, $data, $options) {
-  return openBlock(), createElementBlock("div", _hoisted_1$3, _hoisted_4$1);
+  const _component_Column = resolveComponent("Column");
+  const _component_DataTable = resolveComponent("DataTable");
+  return openBlock(), createElementBlock("div", _hoisted_1$3, [
+    _hoisted_2$3,
+    createVNode(_component_DataTable, {
+      class: "table",
+      value: $data.items
+    }, {
+      default: withCtx(() => [
+        createVNode(_component_Column, {
+          style: { "background-color": "rgb(113, 194, 224)", "border": "1px solid #043d75", "padding": "5px", "text-align": "center" },
+          field: "date",
+          header: "Даты/Сроки"
+        }),
+        createVNode(_component_Column, {
+          style: { "background-color": "rgb(113, 194, 224)", "border": "1px solid #043d75", "padding": "5px", "white-space": "pre-line" },
+          field: "organization",
+          header: "Организация/Должность/Должностные обязанности"
+        })
+      ]),
+      _: 1
+    }, 8, ["value"])
+  ]);
 }
-const Experience = /* @__PURE__ */ _export_sfc(_sfc_main$3, [["render", _sfc_render$3], ["__scopeId", "data-v-663d0925"]]);
+const Experience = /* @__PURE__ */ _export_sfc(_sfc_main$3, [["render", _sfc_render$3], ["__scopeId", "data-v-d3560c9e"]]);
 const _imports_0$2 = "" + new URL("portfolio-nnKsIw2y.png", import.meta.url).href;
 const _sfc_main$2 = {};
 const _hoisted_1$2 = { class: "main" };

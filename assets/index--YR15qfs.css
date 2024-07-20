@@ -37,18 +37,18 @@ body {
     background-image: url("./background-UflufwNY.jpg");
 }  
 
-.main[data-v-fa7874da] {
+.main[data-v-e4e803b5] {
     margin-top: 20px;
     display: flex;
     flex-direction: column;
 }
-.head-container[data-v-fa7874da] {
+.head-container[data-v-e4e803b5] {
     display: flex;
     justify-content: center;
     align-items: flex-start;
     flex-wrap: wrap;
 }
-.hello-container[data-v-fa7874da] {
+.hello-container[data-v-e4e803b5] {
     box-sizing: border-box;
     background-color: rgb(113, 194, 224);
     border: 1px solid #043d75;
@@ -58,10 +58,10 @@ body {
     align-items: center;
     padding: 5px;
 }
-.img-hello[data-v-fa7874da] {
+.img-hello[data-v-e4e803b5] {
     width: 100px;
 }
-.circle-photo[data-v-fa7874da]{
+.circle-photo[data-v-e4e803b5]{
   display: inline-block;
   border-radius: 50%;
   overflow: hidden;
@@ -69,12 +69,12 @@ body {
   height: 250px;
   margin-top: 5px;
 }
-.circle-photo .my-photo[data-v-fa7874da]{
+.circle-photo .my-photo[data-v-e4e803b5]{
   width:100%;
   height:100%;
   object-fit: cover;
 }
-.content-container[data-v-fa7874da] {
+.content-container[data-v-e4e803b5] {
     width: 75%;
     margin: 0 auto;
     margin-top: 20px;
@@ -85,19 +85,19 @@ body {
     padding: 10px;
 }
 @media (max-width: 800px) {
-.content-container[data-v-fa7874da] {
+.content-container[data-v-e4e803b5] {
         width: 90%;
 }
 }
 
-.education[data-v-aea359af] {
+.education[data-v-1b4941fa] {
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
     align-items: flex-start;
     margin-top: 20px;
 }
-.head-container[data-v-aea359af] {
+.head-container[data-v-1b4941fa] {
     display: flex;
     border: 1px solid #043d75;
     border-radius: 6px;
@@ -107,7 +107,7 @@ body {
     color: #043d75;
     margin: 0 35px 35px 0;
 }
-.head-container[data-v-aea359af]::after, .head-container[data-v-aea359af]::before {
+.head-container[data-v-1b4941fa]::after, .head-container[data-v-1b4941fa]::before {
     content: '';
     position: absolute;
     background-color: rgb(113, 194, 224);
@@ -118,43 +118,43 @@ body {
     transform: rotate(45deg); 
     -webkit-transform: rotate(45deg);
 }
-.head-container[data-v-aea359af]::before {
+.head-container[data-v-1b4941fa]::before {
     z-index: 1;
     box-shadow: none;
 }
-img[data-v-aea359af] {
+img[data-v-1b4941fa] {
     width: 75px;
     height: 90px;
     margin-right: 10px;
 }
-h2[data-v-aea359af] {
+h2[data-v-1b4941fa] {
     margin: 0;
 }
-.content-container[data-v-aea359af] {
+.content-container[data-v-1b4941fa] {
     background-color: rgb(113, 194, 224);
     border: 1px solid #043d75;
     border-radius: 6px;
     padding: 10px;
 }
 @media (max-width: 834px) {
-.head-container[data-v-aea359af]::after, .head-container[data-v-aea359af]::before {
+.head-container[data-v-1b4941fa]::after, .head-container[data-v-1b4941fa]::before {
         left: 200px; bottom: -15px;
 }
 }
 @media (max-width: 750px) {
-.head-container[data-v-aea359af] {
+.head-container[data-v-1b4941fa] {
         margin-right: 0;
 }
 }
 
-.main[data-v-663d0925] {
+.main[data-v-d3560c9e] {
     display: flex;
     justify-content: space-around;
     align-items: flex-start;
     flex-wrap: wrap;
     margin-top: 20px;
 }
-.head-container[data-v-663d0925] {
+.head-container[data-v-d3560c9e] {
     box-sizing: border-box;
     background-color: rgb(113, 194, 224);
     border: 1px solid #043d75;
@@ -165,10 +165,10 @@ h2[data-v-aea359af] {
     padding: 5px;
     margin: 0 20px 20px 0;
 }
-.img-exp[data-v-663d0925] {
+.img-exp[data-v-d3560c9e] {
     width: 100px;
 }
-/* .content-container {
+.content-container[data-v-d3560c9e] {
     box-sizing: border-box;
     background-color: rgb(113, 194, 224);
     border: 1px solid #043d75;
@@ -177,18 +177,18 @@ h2[data-v-aea359af] {
     justify-content: center;
     align-items: center;
     padding: 5px;
-} */
-.content-container[data-v-663d0925] {
+}
+.content-container[data-v-d3560c9e] {
     background-color: rgb(113, 194, 224);
     border: 1px solid #043d75;
     border-radius: 6px;
     padding: 10px;
 }
-p[data-v-663d0925] {
+p[data-v-d3560c9e] {
     font-size: 30px;
 }
 @media (max-width: 750px) {
-.head-container[data-v-663d0925] {
+.head-container[data-v-d3560c9e] {
         margin-right: 0;
 }
 }
