@@ -29,14 +29,19 @@
                     <li class="contacts">
                         <i class="pi pi-whatsapp"></i>
                         <p><a href="https://api.whatsapp.com/send?phone=79628685863">WhatsApp +7 (962) 868-58-63</a></p> 
-                    </li><li class="contacts">
+                    </li>
+                    <li class="contacts">
                         <i class="pi pi-whatsapp"></i>
                         <p><a href="https://api.whatsapp.com/send?phone=79046853431">WhatsApp +7 (904) 685-34-31</a></p> 
                     </li>
                     <li class="contacts">
                         <i class="pi pi-telegram"></i>
-                        <p><a href="tg://resolve?domain=save1831">Telegram +7 (904) 685-34-31</a></p> 
+                        <p><a href="tg://resolve?domain=save1831537">Telegram +7 (962) 868-58-63</a></p> 
                     </li>
+                    <li class="contacts">
+                        <i class="pi pi-telegram"></i>
+                        <p><a href="tg://resolve?domain=save1831">Telegram +7 (904) 685-34-31</a></p> 
+                    </li>                    
                 </ul>
             </div>
         </div>

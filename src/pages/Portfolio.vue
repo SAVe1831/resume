@@ -7,7 +7,7 @@
             </div>
             <div class="content-container">
                 <p>1. <a href="https://save1831.github.io/testshop">Онлайн-магазин экипировки для зимних видов спорта</a> и соответствующая <a href="https://github.com/SAVe1831/testshop">ссылка на GitHub</a></p>
-                <p class="description">Написан на фреймворке Vue3 Composition API.<br> В процессе разработки использованы следующие зависимости:<br>vue<br> vue-router<br> primevue<br> vuex<br> vuelidate/core<br> vuelidate/validators<br> vite<br> itejs/plugin-vue<br> gh-pages.</p>
+                <p class="description">Написан на фреймворке Vue3 Composition API.<br> В процессе разработки использованы следующие зависимости:<br>vue<br> vue-router<br> primevue<br> vuex<br> vuelidate/core<br> vuelidate/validators<br> vite<br> vitejs/plugin-vue<br> gh-pages.</p>
                 <p>2. <a href="https://save1831.github.io/online_store">Онлайн-магазин товаров для домашних животных</a> и соответствующая <a href="https://github.com/SAVe1831/online_store">ссылка на GitHub</a></p>
                 <p class="description">Написан на фреймворке Vue3 Composition API.<br> В процессе разработки использованы следующие зависимости:<br>vue<br> vue-router<br> primeflex<br> primeicons<br> primevue<br> axios<br> lodash.debounce<br> pinia<br> vite<br> gh-pages.</p>
                 <p>3. <a href="https://save1831.github.io/Photographer-s-website">Веб-сайт фотографа</a> и соответствующая <a href="https://github.com/SAVe1831/Photographer-s-website">ссылка на GitHub</a></p>
