@@ -193,14 +193,14 @@ p[data-v-d3560c9e] {
 }
 }
 
-.portfolio[data-v-9e512945] {
+.portfolio[data-v-7a3ec1a3] {
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
     align-items: flex-start;
     margin-top: 20px;
 }
-.head-container[data-v-9e512945] {
+.head-container[data-v-7a3ec1a3] {
     display: flex;
     align-items: center;
     border: 1px solid #043d75;
@@ -211,28 +211,28 @@ p[data-v-d3560c9e] {
     color: #043d75;
     margin: 0 35px 35px 0;
 }
-img[data-v-9e512945] {
+img[data-v-7a3ec1a3] {
     width: 75px;
     height: 90px;
     margin-right: 30px;
 }
-h2[data-v-9e512945] {
+h2[data-v-7a3ec1a3] {
     margin: 0;
 }
-.content-container[data-v-9e512945] {
+.content-container[data-v-7a3ec1a3] {
     background-color: rgb(113, 194, 224);
     border: 1px solid #043d75;
     border-radius: 6px;
     padding: 10px;
 }
-p[data-v-9e512945] {
+p[data-v-7a3ec1a3] {
     margin: 0;
 }
-.description[data-v-9e512945] {
+.description[data-v-7a3ec1a3] {
     margin-bottom: 12px;
 }
 @media (max-width: 750px) {
-.head-container[data-v-9e512945] {
+.head-container[data-v-7a3ec1a3] {
         margin-right: 0;
 }
 }    
@@ -282,13 +282,13 @@ span[data-v-ee7bba97] {
 }
 }      
 
-.main[data-v-6f5ec49b] {
+.main[data-v-33b03425] {
     display: flex;
     justify-content: space-around;
     align-items: flex-start;
     flex-wrap: wrap;
 }
-.head-container[data-v-6f5ec49b] {
+.head-container[data-v-33b03425] {
     box-sizing: border-box;
     background-color: rgb(113, 194, 224);
     border: 1px solid #043d75;
@@ -299,12 +299,12 @@ span[data-v-ee7bba97] {
     align-items: center;
     padding: 5px;
 }
-img[data-v-6f5ec49b] {
+img[data-v-33b03425] {
     width: 100px;
     height: 90px;
     margin: 0 20px;
 }
-.connect-container[data-v-6f5ec49b] {
+.connect-container[data-v-33b03425] {
     box-sizing: border-box;
     background-color: rgb(113, 194, 224);
     border: 1px solid #043d75;
@@ -315,20 +315,20 @@ img[data-v-6f5ec49b] {
     justify-content: flex-start;
     flex-wrap: wrap;
 }
-ul[data-v-6f5ec49b] {
+ul[data-v-33b03425] {
     list-style: none;
     padding: 0;
     margin-left: 10px;
 }
-.contacts[data-v-6f5ec49b] {
+.contacts[data-v-33b03425] {
     display: flex;
     align-items: center;
     justify-content: flex-start;
 }
-p[data-v-6f5ec49b] {
+p[data-v-33b03425] {
     margin: 8px 10px;
 }
-a[data-v-6f5ec49b] {
+a[data-v-33b03425] {
     text-decoration: none;
 } 
 :root {
